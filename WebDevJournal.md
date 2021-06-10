@@ -70,6 +70,7 @@ https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-l
 
 ___
 Insightful Illustration by [@kraykray](https://twitter.com/kraykray)
+___
 ![Illustration](/assets/images/E3SHbKDVkAAApF8.jpeg)
 
 
