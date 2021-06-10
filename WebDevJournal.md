@@ -72,3 +72,33 @@ ___
 Insightful Illustration by [@kraykray](https://twitter.com/kraykray)
 ![Illustration](/assets/images/E3SHbKDVkAAApF8.jpeg)
 
+
+# Also today June 7th 2021 at 10:30 PM we had WWDC'21 event & Apple released amazing software updates for iOS, iPadOS and new macOS Monterey.
+## My fav updates were: Universal Control, Object Capture.
+Sad part was: NO new Macbook Pro which was highly expected by everyone!😭
+___
+
+## June 8,2021
+If you remember many famous websites were down due to a famous Cloud Provider: FASTLY had some server issues in it's CDN.
+#InternetShutdown was trending!
+
+I was learning some HTML forms in [freecodecamp](https://www.freecodecamp.com) and CSS from [W3Schools](https://www.w3schools.com), [CSSreference](https://cssreference.io)
+___
+## June 9,2021
+Day6 of #100DaysOfCode today I worked on a Static Preview Card
+project & I learned a lot like loading images based on screen width, tinting
+images.. 
+The desktop version is done but the mobile design is left..I'll do it
+tmrw.
+---
+l hear many people say do MOBILE first what do u think?
+
+___
+## June 10, 2021
+Day 7 of #100DaysOfCode where I worked a little on my project and then
+tried to learn some markdown coz. tbh I was very lazy to learn and now
+I'm also trynna document my learnings on Github:
+https://github.com/thefarazxr/DaysofWebDev
+
+Imma searching for a way to sync(automatically) few of my tweets to this Journal! 
+___
