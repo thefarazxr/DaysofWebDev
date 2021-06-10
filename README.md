@@ -69,6 +69,6 @@ Useful Blog:
 https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329/
 
 ___
-Insightful Illustration by [https://twitter.com/kraykray]
+Insightful Illustration by [@kraykray](https://twitter.com/kraykray)
 ![Illustration](/assets/images/E3SHbKDVkAAApF8.jpeg)
 
