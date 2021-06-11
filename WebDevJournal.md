@@ -103,3 +103,12 @@ https://github.com/thefarazxr/DaysofWebDev
 
 Imma searching for a way to sync(automatically) few of my tweets to this Journal! 
 ___
+##June 11,2021
+  Day8 of #100DaysOfCode well I worked on a small HTML, CSS-based
+project which is Responsive for Mobile, Desktop.
+Proj: Stat Preview Card from [@frontendmentor](https://www.twitter.com/frontendmentor)
+  Repo link:https://github.com/thefarazxr/StatPreviewCardProject
+  
+  Live URL:https://thefarazxr.github.io/StatPreviewCardProject/
+  ____
+  
