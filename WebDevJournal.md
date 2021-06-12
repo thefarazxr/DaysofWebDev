@@ -111,7 +111,7 @@ Proj: Stat Preview Card from [@frontendmentor](https://www.twitter.com/frontendm
   
   Live URL:https://thefarazxr.github.io/StatPreviewCardProject/
   ____
-## Hune 12,2021
+## June 12,2021
   Day9 of #100DaysOfCode I learned Git Basics & about Version Control
 System and how VCS are classified based on Topology, the way they
 work(Delta, Snapshots) & evolution of VCS, how git was made &also,
