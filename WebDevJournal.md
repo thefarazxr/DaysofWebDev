@@ -117,3 +117,23 @@ System and how VCS are classified based on Topology, the way they
 work(Delta, Snapshots) & evolution of VCS, how git was made &also,
 little-bit of the command line, generating SSH keys etc.
 Thanks [@TheOdinProject](https://twitter.com/TheOdinProject)
+___
+## June 13,2021
+Day 10 of #100DaysOfCode today I worked on a small
+project(a chrome extension). Currently, its features are
+limited, will work only for my classmates 9
+will try to grow it with time, feedback.
+
+LINK 🔗 :https://thefarazxr.github.io/MyClass_Launcher
+
+Wait until it launches on the Chrome Store. 😛
+
+Successfully published it to CHROME Web store.
+
+Check it out here: https://chrome.google.com/webstore/detail/myclass-launcher/kblnilmcdjaojaidjdppiekbnlpchekf
+___
+## June 15,2021
+Day 11 of #100DaysOfCode I practiced basic CSS(basics, using
+different selectors, inheritance, overriding, variables etc. ) in
+freecodecamp and also referred MDN docs..
+___
