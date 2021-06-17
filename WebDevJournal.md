@@ -137,3 +137,13 @@ Day 11 of #100DaysOfCode I practiced basic CSS(basics, using
 different selectors, inheritance, overriding, variables etc. ) in
 freecodecamp and also referred MDN docs..
 ___
+
+## June 16,2021
+Day 12 of #10DaysOfCode practiced Visual Design from fcc learned
+how to beautify text, shadows, hover, positioning, z-index property,
+colors, hsl( ) etc..
+___
+## June 17,2021
+Day 13 of #100DaysOfCode CSS Gradient effects, transform
+scale, skewX, skewY, Graphics, complex shapers and using keyframes,
+CSS animation, movements, timings and bezier curve.
